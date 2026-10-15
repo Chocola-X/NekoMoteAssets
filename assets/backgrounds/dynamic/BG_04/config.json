@@ -1,0 +1,17 @@
+{
+  "phases": [
+    {
+      "image": "A.png",
+      "start": "06:00"
+    },
+    {
+      "image": "B.png",
+      "start": "16:00"
+    },
+    {
+      "image": "C.png",
+      "start": "18:00"
+    }
+  ],
+  "transition_seconds": 1.8
+}

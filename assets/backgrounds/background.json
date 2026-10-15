@@ -1,0 +1,308 @@
+{
+  "BG_07A.png": {
+    "zh-CN": "八景岛水族馆广场",
+    "zh-TW": "八景島水族館廣場",
+    "en": "Hakkeijima aquarium plaza",
+    "ja": "八景島アクアミュージアム広場"
+  },
+  "BG_13A.png": {
+    "zh-CN": "粉色瓷砖浴室",
+    "zh-TW": "粉色瓷磚浴室",
+    "en": "Pink-tiled bathroom",
+    "ja": "ピンクタイルの浴室"
+  },
+  "BG_14A.png": {
+    "zh-CN": "情调酒店套房",
+    "zh-TW": "情調酒店套房",
+    "en": "Boutique hotel suite",
+    "ja": "ムードホテルの客室"
+  },
+  "BG_22A.png": {
+    "zh-CN": "游乐园旋转飞船区",
+    "zh-TW": "遊樂園旋轉飛船區",
+    "en": "Amusement park spinners",
+    "ja": "遊園地の回転飛行船"
+  },
+  "BG_24A.png": {
+    "zh-CN": "巧克力与香子兰卧室",
+    "zh-TW": "巧克力與香子蘭臥室",
+    "en": "Chocola and Vanilla's room",
+    "ja": "ショコラとバニラの寝室"
+  },
+  "BG_26A.png": {
+    "zh-CN": "水无月家庭院和室",
+    "zh-TW": "水無月家庭院和室",
+    "en": "Minazuki garden-view room",
+    "ja": "水無月家の庭に面した和室"
+  },
+  "BG_27A.png": {
+    "zh-CN": "时雨的和室电脑房",
+    "zh-TW": "時雨的和室電腦房",
+    "en": "Shigure's tatami study",
+    "ja": "時雨の和室書斎"
+  },
+  "BG_29A.png": {
+    "zh-CN": "水无月家和室客厅",
+    "zh-TW": "水無月家和室客廳",
+    "en": "Minazuki residence living room",
+    "ja": "水無月家の居間"
+  },
+  "BG_29E.png": {
+    "zh-CN": "水无月家圣诞客厅",
+    "zh-TW": "水無月家聖誕客廳",
+    "en": "Minazuki Christmas living room",
+    "ja": "水無月家のクリスマス居間"
+  },
+  "BG_30A.png": {
+    "zh-CN": "水无月家日式庭院",
+    "zh-TW": "水無月家日式庭院",
+    "en": "Minazuki residence garden",
+    "ja": "水無月家の日本庭園"
+  },
+  "BG_31A.png": {
+    "zh-CN": "水无月家缘侧走廊",
+    "zh-TW": "水無月家緣側走廊",
+    "en": "Minazuki engawa corridor",
+    "ja": "水無月家の縁側廊下"
+  },
+  "BG_32C.png": {
+    "zh-CN": "日式桧木大浴室",
+    "zh-TW": "日式檜木大浴室",
+    "en": "Hinoki cypress bathroom",
+    "ja": "檜造りの大浴場"
+  },
+  "BG_33A.png": {
+    "zh-CN": "林荫商店街小巷",
+    "zh-TW": "林蔭商店街小巷",
+    "en": "Tree-lined shopping lane",
+    "ja": "並木の商店街の路地"
+  },
+  "BG_46A.png": {
+    "zh-CN": "员工休息更衣室",
+    "zh-TW": "員工休息更衣室",
+    "en": "Staff break room",
+    "ja": "スタッフルーム更衣室"
+  },
+  "BG_48C.png": {
+    "zh-CN": "La Soleil 圣诞店内",
+    "zh-TW": "La Soleil 聖誕店內",
+    "en": "La Soleil Christmas interior",
+    "ja": "ラ・ソレイユ クリスマス店内"
+  },
+  "BG_52C.png": {
+    "zh-CN": "La Soleil 圣诞夜正门",
+    "zh-TW": "La Soleil 聖誕夜正門",
+    "en": "La Soleil Christmas facade",
+    "ja": "ラ・ソレイユ クリスマス店舗正面"
+  },
+  "BG_01": {
+    "zh-CN": "La Soleil 初版正门",
+    "zh-TW": "La Soleil 初版正門",
+    "en": "La Soleil original storefront",
+    "ja": "ラ・ソレイユ 初期店舗正面"
+  },
+  "BG_02": {
+    "zh-CN": "La Soleil 展柜客席",
+    "zh-TW": "La Soleil 展櫃客席",
+    "en": "La Soleil showcase and seating",
+    "ja": "ラ・ソレイユ ショーケースと客席"
+  },
+  "BG_03": {
+    "zh-CN": "La Soleil 烘焙厨房",
+    "zh-TW": "La Soleil 烘焙廚房",
+    "en": "La Soleil baking kitchen",
+    "ja": "ラ・ソレイユ 厨房"
+  },
+  "BG_04": {
+    "zh-CN": "临海公园观景步道",
+    "zh-TW": "臨海公園觀景步道",
+    "en": "Waterfront park promenade",
+    "ja": "海辺の公園遊歩道"
+  },
+  "BG_05": {
+    "zh-CN": "时尚商业步行街",
+    "zh-TW": "時尚商業步行街",
+    "en": "Shopping street",
+    "ja": "ショッピングストリート"
+  },
+  "BG_06": {
+    "zh-CN": "宠物用品店店内",
+    "zh-TW": "寵物用品店店內",
+    "en": "Pet shop interior",
+    "ja": "ペットショップ店内"
+  },
+  "BG_08": {
+    "zh-CN": "现代公寓客餐厅",
+    "zh-TW": "現代公寓客餐廳",
+    "en": "Modern apartment living room",
+    "ja": "マンションのリビングダイニング"
+  },
+  "BG_09": {
+    "zh-CN": "街角便利店店内",
+    "zh-TW": "街角便利商店店內",
+    "en": "Convenience store interior",
+    "ja": "街角のコンビニ店内"
+  },
+  "BG_10": {
+    "zh-CN": "时雨的粉色少女卧室",
+    "zh-TW": "時雨的粉色少女臥室",
+    "en": "Shigure's pink bedroom",
+    "ja": "時雨のピンクの寝室"
+  },
+  "BG_11": {
+    "zh-CN": "嘉祥的单人公寓卧室",
+    "zh-TW": "嘉祥的單人公寓臥室",
+    "en": "Kashou's apartment bedroom",
+    "ja": "嘉祥のマンション寝室"
+  },
+  "BG_12": {
+    "zh-CN": "商业街区休闲广场",
+    "zh-TW": "商業街區休閒廣場",
+    "en": "Commercial district plaza",
+    "ja": "商業街の広場"
+  },
+  "BG_15": {
+    "zh-CN": "乐器店乐器展厅",
+    "zh-TW": "樂器行樂器展廳",
+    "en": "Music store showroom",
+    "ja": "楽器店ショールーム"
+  },
+  "BG_16": {
+    "zh-CN": "城市商圈过街天桥",
+    "zh-TW": "城市商圈過街天橋",
+    "en": "Downtown pedestrian overpass",
+    "ja": "市街地の歩道橋"
+  },
+  "BG_17": {
+    "zh-CN": "横滨海湾沿岸道路",
+    "zh-TW": "橫濱海灣沿岸道路",
+    "en": "Yokohama bay waterfront road",
+    "ja": "横浜湾岸道路"
+  },
+  "BG_18": {
+    "zh-CN": "码头停泊的豪华客轮",
+    "zh-TW": "碼頭停泊的豪華客輪",
+    "en": "Luxury cruise liner at pier",
+    "ja": "港に停泊する豪華客船"
+  },
+  "BG_19": {
+    "zh-CN": "游轮钢琴宴会餐厅",
+    "zh-TW": "遊輪鋼琴宴會餐廳",
+    "en": "Cruise liner piano banquet hall",
+    "ja": "豪華客船のピアノレストラン"
+  },
+  "BG_20": {
+    "zh-CN": "豪华游轮海景甲板",
+    "zh-TW": "豪華遊輪海景甲板",
+    "en": "Cruise liner sea-view deck",
+    "ja": "豪華客船の展望デッキ"
+  },
+  "BG_21": {
+    "zh-CN": "酒店蓝色双床客房",
+    "zh-TW": "飯店藍色雙床客房",
+    "en": "Hotel blue twin room",
+    "ja": "ホテルのツインルーム"
+  },
+  "BG_23": {
+    "zh-CN": "水无月家宅邸正门",
+    "zh-TW": "水無月家宅邸正門",
+    "en": "Minazuki residence gate",
+    "ja": "水無月家の屋敷正門"
+  },
+  "BG_25": {
+    "zh-CN": "水无月家和室寝室",
+    "zh-TW": "水無月家和室寢室",
+    "en": "Minazuki tatami bedroom",
+    "ja": "水無月家の和室寝室"
+  },
+  "BG_28": {
+    "zh-CN": "水无月家中岛厨房",
+    "zh-TW": "水無月家中島廚房",
+    "en": "Minazuki island kitchen",
+    "ja": "水無月家のアイランドキッチン"
+  },
+  "BG_34": {
+    "zh-CN": "海湾度假沙滩",
+    "zh-TW": "海灣度假沙灘",
+    "en": "Bay resort beach",
+    "ja": "リゾート砂浜"
+  },
+  "BG_35": {
+    "zh-CN": "下町窄巷商店街",
+    "zh-TW": "下町窄巷商店街",
+    "en": "Shitamachi shopping lane",
+    "ja": "下町風情の路地商店街"
+  },
+  "BG_36": {
+    "zh-CN": "神社鸟居前石板广场",
+    "zh-TW": "神社鳥居前石板廣場",
+    "en": "Shrine torii stone plaza",
+    "ja": "鳥居前石畳広場"
+  },
+  "BG_37": {
+    "zh-CN": "俯瞰城市的高地展望台",
+    "zh-TW": "俯瞰城市的高地展望台",
+    "en": "Hilltop city-view observatory",
+    "ja": "街を一望する高台展望台"
+  },
+  "BG_38": {
+    "zh-CN": "温泉小镇石桥街口",
+    "zh-TW": "溫泉小鎮石橋街口",
+    "en": "Hot spring town bridge street",
+    "ja": "温泉街の石橋通り"
+  },
+  "BG_39": {
+    "zh-CN": "日式料亭青花亭正门",
+    "zh-TW": "日式料亭青花亭正門",
+    "en": "Japanese restaurant Aobana-tei",
+    "ja": "和風料亭あおばな亭正門"
+  },
+  "BG_40": {
+    "zh-CN": "围炉里地炉和室雅间",
+    "zh-TW": "圍爐裏地爐和室雅間",
+    "en": "Irori sunken hearth room",
+    "ja": "囲炉裏のある和風個室"
+  },
+  "BG_41": {
+    "zh-CN": "远眺铁塔的巴黎大道",
+    "zh-TW": "遠眺鐵塔的巴黎大道",
+    "en": "Paris avenue Eiffel Tower view",
+    "ja": "エッフェル塔を望むパリの大通り"
+  },
+  "BG_42": {
+    "zh-CN": "La Soleil 巴黎店门面",
+    "zh-TW": "La Soleil 巴黎店門面",
+    "en": "La Soleil Paris storefront",
+    "ja": "ラ・ソレイユ パリ店舗正面"
+  },
+  "BG_43": {
+    "zh-CN": "La Soleil 巴黎展厅",
+    "zh-TW": "La Soleil 巴黎展廳",
+    "en": "La Soleil Paris salon",
+    "ja": "ラ・ソレイユ パリ店内サロン"
+  },
+  "BG_44": {
+    "zh-CN": "巴黎留学单人公寓卧室",
+    "zh-TW": "巴黎留學單人公寓臥室",
+    "en": "Parisian single bedroom",
+    "ja": "パリのアパート寝室"
+  },
+  "BG_45": {
+    "zh-CN": "巴黎现代公寓大客厅",
+    "zh-TW": "巴黎現代公寓大客廳",
+    "en": "Parisian modern living room",
+    "ja": "パリの高級マンションリビング"
+  },
+  "BG_47": {
+    "zh-CN": "La Soleil 蛋糕柜客席",
+    "zh-TW": "La Soleil 蛋糕櫃客席",
+    "en": "La Soleil dining and showcase",
+    "ja": "ラ・ソレイユ ケーキ棚と客席"
+  },
+  "BG_49": {
+    "zh-CN": "La Soleil 露天座正门",
+    "zh-TW": "La Soleil 露天座正門",
+    "en": "La Soleil patio storefront",
+    "ja": "ラ・ソレイユ テラス付き正面"
+  }
+}
