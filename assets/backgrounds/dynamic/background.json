@@ -1,37 +1,212 @@
 {
-  "BG_01": "La Soleil 初版正门",
-  "BG_02": "La Soleil 展柜客席",
-  "BG_03": "La Soleil 烘焙厨房",
-  "BG_04": "临海公园观景步道",
-  "BG_05": "时尚商业步行街",
-  "BG_06": "宠物用品店店内",
-  "BG_08": "现代公寓客餐厅",
-  "BG_09": "街角便利店店内",
-  "BG_10": "时雨的粉色少女卧室",
-  "BG_11": "嘉祥的单人公寓卧室",
-  "BG_12": "商业街区休闲广场",
-  "BG_15": "乐器店乐器展厅",
-  "BG_16": "城市商圈过街天桥",
-  "BG_17": "横滨海湾沿岸道路",
-  "BG_18": "码头停泊的豪华客轮",
-  "BG_19": "游轮钢琴宴会餐厅",
-  "BG_20": "豪华游轮海景甲板",
-  "BG_21": "酒店蓝色双床客房",
-  "BG_23": "水无月家宅邸正门",
-  "BG_25": "水无月家和室寝室",
-  "BG_28": "水无月家中岛厨房",
-  "BG_34": "海湾度假沙滩",
-  "BG_35": "下町窄巷商店街",
-  "BG_36": "神社鸟居前石板广场",
-  "BG_37": "俯瞰城市的高地展望台",
-  "BG_38": "温泉小镇石桥街口",
-  "BG_39": "日式料亭青花亭正门",
-  "BG_40": "围炉里地炉和室雅间",
-  "BG_41": "远眺铁塔的巴黎大道",
-  "BG_42": "La Soleil 巴黎店门面",
-  "BG_43": "La Soleil 巴黎展厅",
-  "BG_44": "巴黎留学单人公寓卧室",
-  "BG_45": "巴黎现代公寓大客厅",
-  "BG_47": "La Soleil 蛋糕柜客席",
-  "BG_49": "La Soleil 露天座正门"
+  "BG_01": {
+    "en": "La Soleil original storefront",
+    "zh-CN": "La Soleil 初版正门",
+    "zh-TW": "La Soleil 初版正門",
+    "ja": "ラ・ソレイユ 初期店舗正面"
+  },
+  "BG_02": {
+    "en": "La Soleil showcase and seating",
+    "zh-CN": "La Soleil 展柜客席",
+    "zh-TW": "La Soleil 展櫃客席",
+    "ja": "ラ・ソレイユ ショーケースと客席"
+  },
+  "BG_03": {
+    "en": "La Soleil baking kitchen",
+    "zh-CN": "La Soleil 烘焙厨房",
+    "zh-TW": "La Soleil 烘焙廚房",
+    "ja": "ラ・ソレイユ 厨房"
+  },
+  "BG_04": {
+    "en": "Waterfront park promenade",
+    "zh-CN": "临海公园观景步道",
+    "zh-TW": "臨海公園觀景步道",
+    "ja": "海辺の公園遊歩道"
+  },
+  "BG_05": {
+    "en": "Shopping street",
+    "zh-CN": "时尚商业步行街",
+    "zh-TW": "時尚商業步行街",
+    "ja": "ショッピングストリート"
+  },
+  "BG_06": {
+    "en": "Pet shop interior",
+    "zh-CN": "宠物用品店店内",
+    "zh-TW": "寵物用品店店內",
+    "ja": "ペットショップ店内"
+  },
+  "BG_08": {
+    "en": "Modern apartment living room",
+    "zh-CN": "现代公寓客餐厅",
+    "zh-TW": "現代公寓客餐廳",
+    "ja": "マンションのリビングダイニング"
+  },
+  "BG_09": {
+    "en": "Convenience store interior",
+    "zh-CN": "街角便利店店内",
+    "zh-TW": "街角便利商店店內",
+    "ja": "街角のコンビニ店内"
+  },
+  "BG_10": {
+    "en": "Shigure's pink bedroom",
+    "zh-CN": "时雨的粉色少女卧室",
+    "zh-TW": "時雨的粉色少女臥室",
+    "ja": "時雨のピンクの寝室"
+  },
+  "BG_11": {
+    "en": "Kashou's apartment bedroom",
+    "zh-CN": "嘉祥的单人公寓卧室",
+    "zh-TW": "嘉祥的單人公寓臥室",
+    "ja": "嘉祥のマンション寝室"
+  },
+  "BG_12": {
+    "en": "Commercial district plaza",
+    "zh-CN": "商业街区休闲广场",
+    "zh-TW": "商業街區休閒廣場",
+    "ja": "商業街の広場"
+  },
+  "BG_15": {
+    "en": "Music store showroom",
+    "zh-CN": "乐器店乐器展厅",
+    "zh-TW": "樂器行樂器展廳",
+    "ja": "楽器店ショールーム"
+  },
+  "BG_16": {
+    "en": "Downtown pedestrian overpass",
+    "zh-CN": "城市商圈过街天桥",
+    "zh-TW": "城市商圈過街天橋",
+    "ja": "市街地の歩道橋"
+  },
+  "BG_17": {
+    "en": "Yokohama bay waterfront road",
+    "zh-CN": "横滨海湾沿岸道路",
+    "zh-TW": "橫濱海灣沿岸道路",
+    "ja": "横浜湾岸道路"
+  },
+  "BG_18": {
+    "en": "Luxury cruise liner at pier",
+    "zh-CN": "码头停泊的豪华客轮",
+    "zh-TW": "碼頭停泊的豪華客輪",
+    "ja": "港に停泊する豪華客船"
+  },
+  "BG_19": {
+    "en": "Cruise liner piano banquet hall",
+    "zh-CN": "游轮钢琴宴会餐厅",
+    "zh-TW": "遊輪鋼琴宴會餐廳",
+    "ja": "豪華客船のピアノレストラン"
+  },
+  "BG_20": {
+    "en": "Cruise liner sea-view deck",
+    "zh-CN": "豪华游轮海景甲板",
+    "zh-TW": "豪華遊輪海景甲板",
+    "ja": "豪華客船の展望デッキ"
+  },
+  "BG_21": {
+    "en": "Hotel blue twin room",
+    "zh-CN": "酒店蓝色双床客房",
+    "zh-TW": "飯店藍色雙床客房",
+    "ja": "ホテルのツインルーム"
+  },
+  "BG_23": {
+    "en": "Minazuki residence gate",
+    "zh-CN": "水无月家宅邸正门",
+    "zh-TW": "水無月家宅邸正門",
+    "ja": "水無月家の屋敷正門"
+  },
+  "BG_25": {
+    "en": "Minazuki tatami bedroom",
+    "zh-CN": "水无月家和室寝室",
+    "zh-TW": "水無月家和室寢室",
+    "ja": "水無月家の和室寝室"
+  },
+  "BG_28": {
+    "en": "Minazuki island kitchen",
+    "zh-CN": "水无月家中岛厨房",
+    "zh-TW": "水無月家中島廚房",
+    "ja": "水無月家のアイランドキッチン"
+  },
+  "BG_34": {
+    "en": "Bay resort beach",
+    "zh-CN": "海湾度假沙滩",
+    "zh-TW": "海灣度假沙灘",
+    "ja": "リゾート砂浜"
+  },
+  "BG_35": {
+    "en": "Shitamachi shopping lane",
+    "zh-CN": "下町窄巷商店街",
+    "zh-TW": "下町窄巷商店街",
+    "ja": "下町風情の路地商店街"
+  },
+  "BG_36": {
+    "en": "Shrine torii stone plaza",
+    "zh-CN": "神社鸟居前石板广场",
+    "zh-TW": "神社鳥居前石板廣場",
+    "ja": "鳥居前石畳広場"
+  },
+  "BG_37": {
+    "en": "Hilltop city-view observatory",
+    "zh-CN": "俯瞰城市的高地展望台",
+    "zh-TW": "俯瞰城市的高地展望台",
+    "ja": "街を一望する高台展望台"
+  },
+  "BG_38": {
+    "en": "Hot spring town bridge street",
+    "zh-CN": "温泉小镇石桥街口",
+    "zh-TW": "溫泉小鎮石橋街口",
+    "ja": "温泉街の石橋通り"
+  },
+  "BG_39": {
+    "en": "Japanese restaurant Aobana-tei",
+    "zh-CN": "日式料亭青花亭正门",
+    "zh-TW": "日式料亭青花亭正門",
+    "ja": "和風料亭あおばな亭正門"
+  },
+  "BG_40": {
+    "en": "Irori sunken hearth room",
+    "zh-CN": "围炉里地炉和室雅间",
+    "zh-TW": "圍爐裏地爐和室雅間",
+    "ja": "囲炉裏のある和風個室"
+  },
+  "BG_41": {
+    "en": "Paris avenue Eiffel Tower view",
+    "zh-CN": "远眺铁塔的巴黎大道",
+    "zh-TW": "遠眺鐵塔的巴黎大道",
+    "ja": "エッフェル塔を望むパリの大通り"
+  },
+  "BG_42": {
+    "en": "La Soleil Paris storefront",
+    "zh-CN": "La Soleil 巴黎店门面",
+    "zh-TW": "La Soleil 巴黎店門面",
+    "ja": "ラ・ソレイユ パリ店舗正面"
+  },
+  "BG_43": {
+    "en": "La Soleil Paris salon",
+    "zh-CN": "La Soleil 巴黎展厅",
+    "zh-TW": "La Soleil 巴黎展廳",
+    "ja": "ラ・ソレイユ パリ店内サロン"
+  },
+  "BG_44": {
+    "en": "Parisian single bedroom",
+    "zh-CN": "巴黎留学单人公寓卧室",
+    "zh-TW": "巴黎留學單人公寓臥室",
+    "ja": "パリのアパート寝室"
+  },
+  "BG_45": {
+    "en": "Parisian modern living room",
+    "zh-CN": "巴黎现代公寓大客厅",
+    "zh-TW": "巴黎現代公寓大客廳",
+    "ja": "パリの高級マンションリビング"
+  },
+  "BG_47": {
+    "en": "La Soleil dining and showcase",
+    "zh-CN": "La Soleil 蛋糕柜客席",
+    "zh-TW": "La Soleil 蛋糕櫃客席",
+    "ja": "ラ・ソレイユ ケーキ棚と客席"
+  },
+  "BG_49": {
+    "en": "La Soleil patio storefront",
+    "zh-CN": "La Soleil 露天座正门",
+    "zh-TW": "La Soleil 露天座正門",
+    "ja": "ラ・ソレイユ テラス付き正面"
+  }
 }

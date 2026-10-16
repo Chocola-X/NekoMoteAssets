@@ -1,197 +1,1172 @@
 {
-  "azuki/casual": "日常·原版",
-  "azuki/casual-a": "日常·站姿 A",
-  "azuki/casual-a-ohtoro": "日常·站姿 A·Ohtoro",
-  "azuki/casual-b": "日常·站姿 B",
-  "azuki/dress": "礼服·原版",
-  "azuki/dress-a": "礼服·站姿 A",
-  "azuki/hawaii-a": "夏威夷·站姿 A",
-  "azuki/hawaii-b": "夏威夷·站姿 B",
-  "azuki/maid": "女仆·原版",
-  "azuki/maid-a": "女仆·站姿 A",
-  "azuki/maid-a-custard": "女仆·站姿 A·卡仕达",
-  "azuki/maid-b": "女仆·站姿 B",
-  "azuki/maid-b-custard": "女仆·站姿 B·卡仕达",
-  "azuki/santa": "圣诞·原版",
-  "azuki/santa-b": "圣诞·站姿 B",
-  "azuki/swimsuit-a": "泳装·站姿 A",
-  "azuki/swimsuit-b": "泳装·站姿 B",
-  "azuki/teenage": "少女·原版",
-  "azuki/teenage-a": "少女·站姿 A",
-  "azuki/teenage-b": "少女·站姿 B",
-  "azuki/winter": "冬季·原版",
-  "azuki/winter-b": "冬季·站姿 B",
-  "azuki/wintermaid": "冬季女仆·原版",
-  "azuki/wintermaid-b": "冬季女仆·站姿 B",
-  "azuki/yukata": "浴衣·原版",
-  "azuki/yukata-b": "浴衣·站姿 B",
-  "chocola/casual": "日常·原版",
-  "chocola/casual-a-no-bell": "日常·站姿 A·无铃铛",
-  "chocola/casual-a-with-bell": "日常·站姿 A·有铃铛",
-  "chocola/casual-b-no-bell": "日常·站姿 B·无铃铛",
-  "chocola/casual-b-with-bell": "日常·站姿 B·有铃铛",
-  "chocola/date-a": "约会·站姿 A",
-  "chocola/date-b": "约会·站姿 B",
-  "chocola/dress": "礼服·原版",
-  "chocola/dress-a": "礼服·站姿 A",
-  "chocola/hawaii-a": "夏威夷·站姿 A",
-  "chocola/hawaii-b": "夏威夷·站姿 B",
-  "chocola/koneko": "小猫·原版",
-  "chocola/koneko-a": "小猫·站姿 A",
-  "chocola/koneko-b": "小猫·站姿 B",
-  "chocola/lolita": "洛丽塔·原版",
-  "chocola/maid": "女仆·原版",
-  "chocola/maid-a-no-bell": "女仆·站姿 A·无铃铛",
-  "chocola/maid-a-with-bell": "女仆·站姿 A·有铃铛",
-  "chocola/maid-b-no-bell": "女仆·站姿 B·无铃铛",
-  "chocola/maid-b-with-bell": "女仆·站姿 B·有铃铛",
-  "chocola/pajama": "睡衣·原版",
-  "chocola/pajama-a": "睡衣·站姿 A",
-  "chocola/pajama-b": "睡衣·站姿 B",
-  "chocola/santa": "圣诞·原版",
-  "chocola/santa-b": "圣诞·站姿 B",
-  "chocola/swimsuit-a": "泳装·站姿 A",
-  "chocola/swimsuit-b": "泳装·站姿 B",
-  "chocola/teenage": "少女·原版",
-  "chocola/teenage-a": "少女·站姿 A",
-  "chocola/teenage-b": "少女·站姿 B",
-  "chocola/winter": "冬季·原版",
-  "chocola/winter-b": "冬季·站姿 B",
-  "chocola/wintermaid": "冬季女仆·原版",
-  "chocola/wintermaid-b": "冬季女仆·站姿 B",
-  "chocola/yukata": "浴衣·原版",
-  "chocola/yukata-b": "浴衣·站姿 B",
-  "cinnamon/casual": "日常·原版",
-  "cinnamon/casual-a": "日常·站姿 A",
-  "cinnamon/casual-b": "日常·站姿 B",
-  "cinnamon/dress": "礼服·原版",
-  "cinnamon/dress-a": "礼服·站姿 A",
-  "cinnamon/dress-b": "礼服·站姿 B",
-  "cinnamon/hawaii-a": "夏威夷·站姿 A",
-  "cinnamon/hawaii-b": "夏威夷·站姿 B",
-  "cinnamon/maid": "女仆·原版",
-  "cinnamon/maid-a": "女仆·站姿 A",
-  "cinnamon/maid-b": "女仆·站姿 B",
-  "cinnamon/santa": "圣诞·原版",
-  "cinnamon/santa-b": "圣诞·站姿 B",
-  "cinnamon/swimsuit-a": "泳装·站姿 A",
-  "cinnamon/swimsuit-b": "泳装·站姿 B",
-  "cinnamon/teenage": "少女·原版",
-  "cinnamon/teenage-a": "少女·站姿 A",
-  "cinnamon/teenage-b": "少女·站姿 B",
-  "cinnamon/winter": "冬季·原版",
-  "cinnamon/winter-b": "冬季·站姿 B",
-  "cinnamon/wintermaid": "冬季女仆·原版",
-  "cinnamon/wintermaid-b": "冬季女仆·站姿 B",
-  "cinnamon/yukata": "浴衣·原版",
-  "cinnamon/yukata-b": "浴衣·站姿 B",
-  "coconut/casual": "日常·原版",
-  "coconut/casual-a": "日常·站姿 A",
-  "coconut/casual-a-4yo": "日常·站姿 A·4yo 版本",
-  "coconut/casual-b": "日常·站姿 B",
-  "coconut/casual-b-4yo": "日常·站姿 B·4yo 版本",
-  "coconut/dress": "礼服·原版",
-  "coconut/dress-a": "礼服·站姿 A",
-  "coconut/hawaii-a": "夏威夷·站姿 A",
-  "coconut/hawaii-b": "夏威夷·站姿 B",
-  "coconut/koneko": "小猫·原版",
-  "coconut/koneko-a": "小猫·站姿 A",
-  "coconut/koneko-b": "小猫·站姿 B",
-  "coconut/maid": "女仆·原版",
-  "coconut/maid-a": "女仆·站姿 A",
-  "coconut/maid-a-4yo": "女仆·站姿 A·4yo 版本",
-  "coconut/maid-b": "女仆·站姿 B",
-  "coconut/maid-b-4yo": "女仆·站姿 B·4yo 版本",
-  "coconut/pajama": "睡衣·原版",
-  "coconut/santa": "圣诞·原版",
-  "coconut/santa-b": "圣诞·站姿 B",
-  "coconut/shirt-a": "衬衫·站姿 A",
-  "coconut/swimsuit-a": "泳装·站姿 A",
-  "coconut/swimsuit-b": "泳装·站姿 B",
-  "coconut/teenage": "少女·原版",
-  "coconut/teenage-a": "少女·站姿 A",
-  "coconut/teenage-b": "少女·站姿 B",
-  "coconut/winter": "冬季·原版",
-  "coconut/winter-b": "冬季·站姿 B",
-  "coconut/wintermaid": "冬季女仆·原版",
-  "coconut/wintermaid-b": "冬季女仆·站姿 B",
-  "coconut/yukata": "浴衣·原版",
-  "coconut/yukata-b": "浴衣·站姿 B",
-  "fraise/casual-a": "日常·站姿 A",
-  "fraise/casual-b": "日常·站姿 B",
-  "fraise/france-maid-a": "法国女仆·站姿 A",
-  "fraise/france-maid-b": "法国女仆·站姿 B",
-  "fraise/hawaii-a": "夏威夷·站姿 A",
-  "fraise/hawaii-b": "夏威夷·站姿 B",
-  "fraise/maid-a": "女仆·站姿 A",
-  "fraise/maid-b": "女仆·站姿 B",
-  "fraise/pajama-a": "睡衣·站姿 A",
-  "fraise/pajama-b": "睡衣·站姿 B",
-  "fraise/swimsuit-a": "泳装·站姿 A",
-  "fraise/swimsuit-b": "泳装·站姿 B",
-  "maple/casual": "日常·原版",
-  "maple/casual-a": "日常·站姿 A",
-  "maple/casual-b": "日常·站姿 B",
-  "maple/dress": "礼服·原版",
-  "maple/dress-a": "礼服·站姿 A",
-  "maple/dress-b": "礼服·站姿 B",
-  "maple/hawaii-a": "夏威夷·站姿 A",
-  "maple/hawaii-b": "夏威夷·站姿 B",
-  "maple/maid": "女仆·原版",
-  "maple/maid-a": "女仆·站姿 A",
-  "maple/maid-b": "女仆·站姿 B",
-  "maple/santa": "圣诞·原版",
-  "maple/santa-b": "圣诞·站姿 B",
-  "maple/swimsuit-a": "泳装·站姿 A",
-  "maple/swimsuit-b": "泳装·站姿 B",
-  "maple/teenage": "少女·原版",
-  "maple/teenage-a": "少女·站姿 A",
-  "maple/teenage-b": "少女·站姿 B",
-  "maple/winter": "冬季·原版",
-  "maple/winter-b": "冬季·站姿 B",
-  "maple/wintermaid": "冬季女仆·原版",
-  "maple/wintermaid-b": "冬季女仆·站姿 B",
-  "maple/yukata": "浴衣·原版",
-  "maple/yukata-b": "浴衣·站姿 B",
-  "milk/summer": "夏装·原版",
-  "milk/teenage": "少女·原版",
-  "milk/teenage-4yo": "少女·4yo 版本",
-  "milk/winter": "冬季·原版",
-  "vanilla/casual": "日常·原版",
-  "vanilla/casual-a-no-bell": "日常·站姿 A·无铃铛",
-  "vanilla/casual-a-with-bell": "日常·站姿 A·有铃铛",
-  "vanilla/casual-b-no-bell": "日常·站姿 B·无铃铛",
-  "vanilla/casual-b-no-bell-tail-pin": "日常·站姿 B·无铃铛 / 尾部固定",
-  "vanilla/casual-b-with-bell": "日常·站姿 B·有铃铛",
-  "vanilla/date-a": "约会·站姿 A",
-  "vanilla/date-b": "约会·站姿 B",
-  "vanilla/dress": "礼服·原版",
-  "vanilla/dress-a": "礼服·站姿 A",
-  "vanilla/hawaii-a": "夏威夷·站姿 A",
-  "vanilla/hawaii-b": "夏威夷·站姿 B",
-  "vanilla/koneko": "小猫·原版",
-  "vanilla/koneko-a": "小猫·站姿 A",
-  "vanilla/koneko-b": "小猫·站姿 B",
-  "vanilla/lolita": "洛丽塔·原版",
-  "vanilla/maid": "女仆·原版",
-  "vanilla/maid-a-no-bell": "女仆·站姿 A·无铃铛",
-  "vanilla/maid-a-with-bell": "女仆·站姿 A·有铃铛",
-  "vanilla/maid-b-no-bell": "女仆·站姿 B·无铃铛",
-  "vanilla/maid-b-with-bell": "女仆·站姿 B·有铃铛",
-  "vanilla/pajama": "睡衣·原版",
-  "vanilla/pajama-a": "睡衣·站姿 A",
-  "vanilla/pajama-b": "睡衣·站姿 B",
-  "vanilla/santa": "圣诞·原版",
-  "vanilla/santa-b": "圣诞·站姿 B",
-  "vanilla/swimsuit-a": "泳装·站姿 A",
-  "vanilla/swimsuit-b": "泳装·站姿 B",
-  "vanilla/teenage": "少女·原版",
-  "vanilla/teenage-a": "少女·站姿 A",
-  "vanilla/teenage-b": "少女·站姿 B",
-  "vanilla/winter": "冬季·原版",
-  "vanilla/winter-b": "冬季·站姿 B",
-  "vanilla/wintermaid": "冬季女仆·原版",
-  "vanilla/wintermaid-b": "冬季女仆·站姿 B",
-  "vanilla/yukata": "浴衣·原版",
-  "vanilla/yukata-b": "浴衣·站姿 B"
+  "azuki/casual": {
+    "en": "Casual · Original",
+    "zh-CN": "日常·原版",
+    "zh-TW": "日常·原版",
+    "ja": "私服・オリジナル"
+  },
+  "azuki/casual-a": {
+    "en": "Casual · Pose A",
+    "zh-CN": "日常·站姿 A",
+    "zh-TW": "日常·站姿 A",
+    "ja": "私服・立ちポーズA"
+  },
+  "azuki/casual-a-ohtoro": {
+    "en": "Casual · Pose A · Ohtoro",
+    "zh-CN": "日常·站姿 A·Ohtoro",
+    "zh-TW": "日常·站姿 A·Ohtoro",
+    "ja": "私服・立ちポーズA・Ohtoro"
+  },
+  "azuki/casual-b": {
+    "en": "Casual · Pose B",
+    "zh-CN": "日常·站姿 B",
+    "zh-TW": "日常·站姿 B",
+    "ja": "私服・立ちポーズB"
+  },
+  "azuki/dress": {
+    "en": "Dress · Original",
+    "zh-CN": "礼服·原版",
+    "zh-TW": "禮服·原版",
+    "ja": "ドレス・オリジナル"
+  },
+  "azuki/dress-a": {
+    "en": "Dress · Pose A",
+    "zh-CN": "礼服·站姿 A",
+    "zh-TW": "禮服·站姿 A",
+    "ja": "ドレス・立ちポーズA"
+  },
+  "azuki/hawaii-a": {
+    "en": "Hawaii · Pose A",
+    "zh-CN": "夏威夷·站姿 A",
+    "zh-TW": "夏威夷·站姿 A",
+    "ja": "ハワイ・立ちポーズA"
+  },
+  "azuki/hawaii-b": {
+    "en": "Hawaii · Pose B",
+    "zh-CN": "夏威夷·站姿 B",
+    "zh-TW": "夏威夷·站姿 B",
+    "ja": "ハワイ・立ちポーズB"
+  },
+  "azuki/maid": {
+    "en": "Maid · Original",
+    "zh-CN": "女仆·原版",
+    "zh-TW": "女僕·原版",
+    "ja": "メイド・オリジナル"
+  },
+  "azuki/maid-a": {
+    "en": "Maid · Pose A",
+    "zh-CN": "女仆·站姿 A",
+    "zh-TW": "女僕·站姿 A",
+    "ja": "メイド・立ちポーズA"
+  },
+  "azuki/maid-a-custard": {
+    "en": "Maid · Pose A · Custard",
+    "zh-CN": "女仆·站姿 A·卡仕达",
+    "zh-TW": "女僕·站姿 A·卡仕達",
+    "ja": "メイド・立ちポーズA・カスタード"
+  },
+  "azuki/maid-b": {
+    "en": "Maid · Pose B",
+    "zh-CN": "女仆·站姿 B",
+    "zh-TW": "女僕·站姿 B",
+    "ja": "メイド・立ちポーズB"
+  },
+  "azuki/maid-b-custard": {
+    "en": "Maid · Pose B · Custard",
+    "zh-CN": "女仆·站姿 B·卡仕达",
+    "zh-TW": "女僕·站姿 B·卡仕達",
+    "ja": "メイド・立ちポーズB・カスタード"
+  },
+  "azuki/santa": {
+    "en": "Santa · Original",
+    "zh-CN": "圣诞·原版",
+    "zh-TW": "聖誕·原版",
+    "ja": "サンタ・オリジナル"
+  },
+  "azuki/santa-b": {
+    "en": "Santa · Pose B",
+    "zh-CN": "圣诞·站姿 B",
+    "zh-TW": "聖誕·站姿 B",
+    "ja": "サンタ・立ちポーズB"
+  },
+  "azuki/swimsuit-a": {
+    "en": "Swimsuit · Pose A",
+    "zh-CN": "泳装·站姿 A",
+    "zh-TW": "泳裝·站姿 A",
+    "ja": "水着・立ちポーズA"
+  },
+  "azuki/swimsuit-b": {
+    "en": "Swimsuit · Pose B",
+    "zh-CN": "泳装·站姿 B",
+    "zh-TW": "泳裝·站姿 B",
+    "ja": "水着・立ちポーズB"
+  },
+  "azuki/teenage": {
+    "en": "Teenage · Original",
+    "zh-CN": "少女·原版",
+    "zh-TW": "少女·原版",
+    "ja": "ティーンエイジ・オリジナル"
+  },
+  "azuki/teenage-a": {
+    "en": "Teenage · Pose A",
+    "zh-CN": "少女·站姿 A",
+    "zh-TW": "少女·站姿 A",
+    "ja": "ティーンエイジ・立ちポーズA"
+  },
+  "azuki/teenage-b": {
+    "en": "Teenage · Pose B",
+    "zh-CN": "少女·站姿 B",
+    "zh-TW": "少女·站姿 B",
+    "ja": "ティーンエイジ・立ちポーズB"
+  },
+  "azuki/winter": {
+    "en": "Winter · Original",
+    "zh-CN": "冬季·原版",
+    "zh-TW": "冬季·原版",
+    "ja": "ウインター・オリジナル"
+  },
+  "azuki/winter-b": {
+    "en": "Winter · Pose B",
+    "zh-CN": "冬季·站姿 B",
+    "zh-TW": "冬季·站姿 B",
+    "ja": "ウインター・立ちポーズB"
+  },
+  "azuki/wintermaid": {
+    "en": "Winter maid · Original",
+    "zh-CN": "冬季女仆·原版",
+    "zh-TW": "冬季女僕·原版",
+    "ja": "ウィンターメイド・オリジナル"
+  },
+  "azuki/wintermaid-b": {
+    "en": "Winter maid · Pose B",
+    "zh-CN": "冬季女仆·站姿 B",
+    "zh-TW": "冬季女僕·站姿 B",
+    "ja": "ウィンターメイド・立ちポーズB"
+  },
+  "azuki/yukata": {
+    "en": "Yukata · Original",
+    "zh-CN": "浴衣·原版",
+    "zh-TW": "浴衣·原版",
+    "ja": "浴衣・オリジナル"
+  },
+  "azuki/yukata-b": {
+    "en": "Yukata · Pose B",
+    "zh-CN": "浴衣·站姿 B",
+    "zh-TW": "浴衣·站姿 B",
+    "ja": "浴衣・立ちポーズB"
+  },
+  "chocola/casual": {
+    "en": "Casual · Original",
+    "zh-CN": "日常·原版",
+    "zh-TW": "日常·原版",
+    "ja": "私服・オリジナル"
+  },
+  "chocola/casual-a-no-bell": {
+    "en": "Casual · Pose A · No bell",
+    "zh-CN": "日常·站姿 A·无铃铛",
+    "zh-TW": "日常·站姿 A·無鈴鐺",
+    "ja": "私服・立ちポーズA・鈴なし"
+  },
+  "chocola/casual-a-with-bell": {
+    "en": "Casual · Pose A · With bell",
+    "zh-CN": "日常·站姿 A·有铃铛",
+    "zh-TW": "日常·站姿 A·有鈴鐺",
+    "ja": "私服・立ちポーズA・鈴付き"
+  },
+  "chocola/casual-b-no-bell": {
+    "en": "Casual · Pose B · No bell",
+    "zh-CN": "日常·站姿 B·无铃铛",
+    "zh-TW": "日常·站姿 B·無鈴鐺",
+    "ja": "私服・立ちポーズB・鈴なし"
+  },
+  "chocola/casual-b-with-bell": {
+    "en": "Casual · Pose B · With bell",
+    "zh-CN": "日常·站姿 B·有铃铛",
+    "zh-TW": "日常·站姿 B·有鈴鐺",
+    "ja": "私服・立ちポーズB・鈴付き"
+  },
+  "chocola/date-a": {
+    "en": "Date · Pose A",
+    "zh-CN": "约会·站姿 A",
+    "zh-TW": "約會·站姿 A",
+    "ja": "デート・立ちポーズA"
+  },
+  "chocola/date-b": {
+    "en": "Date · Pose B",
+    "zh-CN": "约会·站姿 B",
+    "zh-TW": "約會·站姿 B",
+    "ja": "デート・立ちポーズB"
+  },
+  "chocola/dress": {
+    "en": "Dress · Original",
+    "zh-CN": "礼服·原版",
+    "zh-TW": "禮服·原版",
+    "ja": "ドレス・オリジナル"
+  },
+  "chocola/dress-a": {
+    "en": "Dress · Pose A",
+    "zh-CN": "礼服·站姿 A",
+    "zh-TW": "禮服·站姿 A",
+    "ja": "ドレス・立ちポーズA"
+  },
+  "chocola/hawaii-a": {
+    "en": "Hawaii · Pose A",
+    "zh-CN": "夏威夷·站姿 A",
+    "zh-TW": "夏威夷·站姿 A",
+    "ja": "ハワイ・立ちポーズA"
+  },
+  "chocola/hawaii-b": {
+    "en": "Hawaii · Pose B",
+    "zh-CN": "夏威夷·站姿 B",
+    "zh-TW": "夏威夷·站姿 B",
+    "ja": "ハワイ・立ちポーズB"
+  },
+  "chocola/koneko": {
+    "en": "Kitten · Original",
+    "zh-CN": "小猫·原版",
+    "zh-TW": "小貓·原版",
+    "ja": "子猫・オリジナル"
+  },
+  "chocola/koneko-a": {
+    "en": "Kitten · Pose A",
+    "zh-CN": "小猫·站姿 A",
+    "zh-TW": "小貓·站姿 A",
+    "ja": "子猫・立ちポーズA"
+  },
+  "chocola/koneko-b": {
+    "en": "Kitten · Pose B",
+    "zh-CN": "小猫·站姿 B",
+    "zh-TW": "小貓·站姿 B",
+    "ja": "子猫・立ちポーズB"
+  },
+  "chocola/lolita": {
+    "en": "Lolita · Original",
+    "zh-CN": "洛丽塔·原版",
+    "zh-TW": "洛麗塔·原版",
+    "ja": "ロリータ・オリジナル"
+  },
+  "chocola/maid": {
+    "en": "Maid · Original",
+    "zh-CN": "女仆·原版",
+    "zh-TW": "女僕·原版",
+    "ja": "メイド・オリジナル"
+  },
+  "chocola/maid-a-no-bell": {
+    "en": "Maid · Pose A · No bell",
+    "zh-CN": "女仆·站姿 A·无铃铛",
+    "zh-TW": "女僕·站姿 A·無鈴鐺",
+    "ja": "メイド・立ちポーズA・鈴なし"
+  },
+  "chocola/maid-a-with-bell": {
+    "en": "Maid · Pose A · With bell",
+    "zh-CN": "女仆·站姿 A·有铃铛",
+    "zh-TW": "女僕·站姿 A·有鈴鐺",
+    "ja": "メイド・立ちポーズA・鈴付き"
+  },
+  "chocola/maid-b-no-bell": {
+    "en": "Maid · Pose B · No bell",
+    "zh-CN": "女仆·站姿 B·无铃铛",
+    "zh-TW": "女僕·站姿 B·無鈴鐺",
+    "ja": "メイド・立ちポーズB・鈴なし"
+  },
+  "chocola/maid-b-with-bell": {
+    "en": "Maid · Pose B · With bell",
+    "zh-CN": "女仆·站姿 B·有铃铛",
+    "zh-TW": "女僕·站姿 B·有鈴鐺",
+    "ja": "メイド・立ちポーズB・鈴付き"
+  },
+  "chocola/pajama": {
+    "en": "Pajamas · Original",
+    "zh-CN": "睡衣·原版",
+    "zh-TW": "睡衣·原版",
+    "ja": "パジャマ・オリジナル"
+  },
+  "chocola/pajama-a": {
+    "en": "Pajamas · Pose A",
+    "zh-CN": "睡衣·站姿 A",
+    "zh-TW": "睡衣·站姿 A",
+    "ja": "パジャマ・立ちポーズA"
+  },
+  "chocola/pajama-b": {
+    "en": "Pajamas · Pose B",
+    "zh-CN": "睡衣·站姿 B",
+    "zh-TW": "睡衣·站姿 B",
+    "ja": "パジャマ・立ちポーズB"
+  },
+  "chocola/santa": {
+    "en": "Santa · Original",
+    "zh-CN": "圣诞·原版",
+    "zh-TW": "聖誕·原版",
+    "ja": "サンタ・オリジナル"
+  },
+  "chocola/santa-b": {
+    "en": "Santa · Pose B",
+    "zh-CN": "圣诞·站姿 B",
+    "zh-TW": "聖誕·站姿 B",
+    "ja": "サンタ・立ちポーズB"
+  },
+  "chocola/swimsuit-a": {
+    "en": "Swimsuit · Pose A",
+    "zh-CN": "泳装·站姿 A",
+    "zh-TW": "泳裝·站姿 A",
+    "ja": "水着・立ちポーズA"
+  },
+  "chocola/swimsuit-b": {
+    "en": "Swimsuit · Pose B",
+    "zh-CN": "泳装·站姿 B",
+    "zh-TW": "泳裝·站姿 B",
+    "ja": "水着・立ちポーズB"
+  },
+  "chocola/teenage": {
+    "en": "Teenage · Original",
+    "zh-CN": "少女·原版",
+    "zh-TW": "少女·原版",
+    "ja": "ティーンエイジ・オリジナル"
+  },
+  "chocola/teenage-a": {
+    "en": "Teenage · Pose A",
+    "zh-CN": "少女·站姿 A",
+    "zh-TW": "少女·站姿 A",
+    "ja": "ティーンエイジ・立ちポーズA"
+  },
+  "chocola/teenage-b": {
+    "en": "Teenage · Pose B",
+    "zh-CN": "少女·站姿 B",
+    "zh-TW": "少女·站姿 B",
+    "ja": "ティーンエイジ・立ちポーズB"
+  },
+  "chocola/winter": {
+    "en": "Winter · Original",
+    "zh-CN": "冬季·原版",
+    "zh-TW": "冬季·原版",
+    "ja": "ウインター・オリジナル"
+  },
+  "chocola/winter-b": {
+    "en": "Winter · Pose B",
+    "zh-CN": "冬季·站姿 B",
+    "zh-TW": "冬季·站姿 B",
+    "ja": "ウインター・立ちポーズB"
+  },
+  "chocola/wintermaid": {
+    "en": "Winter maid · Original",
+    "zh-CN": "冬季女仆·原版",
+    "zh-TW": "冬季女僕·原版",
+    "ja": "ウィンターメイド・オリジナル"
+  },
+  "chocola/wintermaid-b": {
+    "en": "Winter maid · Pose B",
+    "zh-CN": "冬季女仆·站姿 B",
+    "zh-TW": "冬季女僕·站姿 B",
+    "ja": "ウィンターメイド・立ちポーズB"
+  },
+  "chocola/yukata": {
+    "en": "Yukata · Original",
+    "zh-CN": "浴衣·原版",
+    "zh-TW": "浴衣·原版",
+    "ja": "浴衣・オリジナル"
+  },
+  "chocola/yukata-b": {
+    "en": "Yukata · Pose B",
+    "zh-CN": "浴衣·站姿 B",
+    "zh-TW": "浴衣·站姿 B",
+    "ja": "浴衣・立ちポーズB"
+  },
+  "cinnamon/casual": {
+    "en": "Casual · Original",
+    "zh-CN": "日常·原版",
+    "zh-TW": "日常·原版",
+    "ja": "私服・オリジナル"
+  },
+  "cinnamon/casual-a": {
+    "en": "Casual · Pose A",
+    "zh-CN": "日常·站姿 A",
+    "zh-TW": "日常·站姿 A",
+    "ja": "私服・立ちポーズA"
+  },
+  "cinnamon/casual-b": {
+    "en": "Casual · Pose B",
+    "zh-CN": "日常·站姿 B",
+    "zh-TW": "日常·站姿 B",
+    "ja": "私服・立ちポーズB"
+  },
+  "cinnamon/dress": {
+    "en": "Dress · Original",
+    "zh-CN": "礼服·原版",
+    "zh-TW": "禮服·原版",
+    "ja": "ドレス・オリジナル"
+  },
+  "cinnamon/dress-a": {
+    "en": "Dress · Pose A",
+    "zh-CN": "礼服·站姿 A",
+    "zh-TW": "禮服·站姿 A",
+    "ja": "ドレス・立ちポーズA"
+  },
+  "cinnamon/dress-b": {
+    "en": "Dress · Pose B",
+    "zh-CN": "礼服·站姿 B",
+    "zh-TW": "禮服·站姿 B",
+    "ja": "ドレス・立ちポーズB"
+  },
+  "cinnamon/hawaii-a": {
+    "en": "Hawaii · Pose A",
+    "zh-CN": "夏威夷·站姿 A",
+    "zh-TW": "夏威夷·站姿 A",
+    "ja": "ハワイ・立ちポーズA"
+  },
+  "cinnamon/hawaii-b": {
+    "en": "Hawaii · Pose B",
+    "zh-CN": "夏威夷·站姿 B",
+    "zh-TW": "夏威夷·站姿 B",
+    "ja": "ハワイ・立ちポーズB"
+  },
+  "cinnamon/maid": {
+    "en": "Maid · Original",
+    "zh-CN": "女仆·原版",
+    "zh-TW": "女僕·原版",
+    "ja": "メイド・オリジナル"
+  },
+  "cinnamon/maid-a": {
+    "en": "Maid · Pose A",
+    "zh-CN": "女仆·站姿 A",
+    "zh-TW": "女僕·站姿 A",
+    "ja": "メイド・立ちポーズA"
+  },
+  "cinnamon/maid-b": {
+    "en": "Maid · Pose B",
+    "zh-CN": "女仆·站姿 B",
+    "zh-TW": "女僕·站姿 B",
+    "ja": "メイド・立ちポーズB"
+  },
+  "cinnamon/santa": {
+    "en": "Santa · Original",
+    "zh-CN": "圣诞·原版",
+    "zh-TW": "聖誕·原版",
+    "ja": "サンタ・オリジナル"
+  },
+  "cinnamon/santa-b": {
+    "en": "Santa · Pose B",
+    "zh-CN": "圣诞·站姿 B",
+    "zh-TW": "聖誕·站姿 B",
+    "ja": "サンタ・立ちポーズB"
+  },
+  "cinnamon/swimsuit-a": {
+    "en": "Swimsuit · Pose A",
+    "zh-CN": "泳装·站姿 A",
+    "zh-TW": "泳裝·站姿 A",
+    "ja": "水着・立ちポーズA"
+  },
+  "cinnamon/swimsuit-b": {
+    "en": "Swimsuit · Pose B",
+    "zh-CN": "泳装·站姿 B",
+    "zh-TW": "泳裝·站姿 B",
+    "ja": "水着・立ちポーズB"
+  },
+  "cinnamon/teenage": {
+    "en": "Teenage · Original",
+    "zh-CN": "少女·原版",
+    "zh-TW": "少女·原版",
+    "ja": "ティーンエイジ・オリジナル"
+  },
+  "cinnamon/teenage-a": {
+    "en": "Teenage · Pose A",
+    "zh-CN": "少女·站姿 A",
+    "zh-TW": "少女·站姿 A",
+    "ja": "ティーンエイジ・立ちポーズA"
+  },
+  "cinnamon/teenage-b": {
+    "en": "Teenage · Pose B",
+    "zh-CN": "少女·站姿 B",
+    "zh-TW": "少女·站姿 B",
+    "ja": "ティーンエイジ・立ちポーズB"
+  },
+  "cinnamon/winter": {
+    "en": "Winter · Original",
+    "zh-CN": "冬季·原版",
+    "zh-TW": "冬季·原版",
+    "ja": "ウインター・オリジナル"
+  },
+  "cinnamon/winter-b": {
+    "en": "Winter · Pose B",
+    "zh-CN": "冬季·站姿 B",
+    "zh-TW": "冬季·站姿 B",
+    "ja": "ウインター・立ちポーズB"
+  },
+  "cinnamon/wintermaid": {
+    "en": "Winter maid · Original",
+    "zh-CN": "冬季女仆·原版",
+    "zh-TW": "冬季女僕·原版",
+    "ja": "ウィンターメイド・オリジナル"
+  },
+  "cinnamon/wintermaid-b": {
+    "en": "Winter maid · Pose B",
+    "zh-CN": "冬季女仆·站姿 B",
+    "zh-TW": "冬季女僕·站姿 B",
+    "ja": "ウィンターメイド・立ちポーズB"
+  },
+  "cinnamon/yukata": {
+    "en": "Yukata · Original",
+    "zh-CN": "浴衣·原版",
+    "zh-TW": "浴衣·原版",
+    "ja": "浴衣・オリジナル"
+  },
+  "cinnamon/yukata-b": {
+    "en": "Yukata · Pose B",
+    "zh-CN": "浴衣·站姿 B",
+    "zh-TW": "浴衣·站姿 B",
+    "ja": "浴衣・立ちポーズB"
+  },
+  "coconut/casual": {
+    "en": "Casual · Original",
+    "zh-CN": "日常·原版",
+    "zh-TW": "日常·原版",
+    "ja": "私服・オリジナル"
+  },
+  "coconut/casual-a": {
+    "en": "Casual · Pose A",
+    "zh-CN": "日常·站姿 A",
+    "zh-TW": "日常·站姿 A",
+    "ja": "私服・立ちポーズA"
+  },
+  "coconut/casual-a-4yo": {
+    "en": "Casual · Pose A · 4yo",
+    "zh-CN": "日常·站姿 A·4yo 版本",
+    "zh-TW": "日常·站姿 A·4yo 版本",
+    "ja": "私服・立ちポーズA・4yo"
+  },
+  "coconut/casual-b": {
+    "en": "Casual · Pose B",
+    "zh-CN": "日常·站姿 B",
+    "zh-TW": "日常·站姿 B",
+    "ja": "私服・立ちポーズB"
+  },
+  "coconut/casual-b-4yo": {
+    "en": "Casual · Pose B · 4yo",
+    "zh-CN": "日常·站姿 B·4yo 版本",
+    "zh-TW": "日常·站姿 B·4yo 版本",
+    "ja": "私服・立ちポーズB・4yo"
+  },
+  "coconut/dress": {
+    "en": "Dress · Original",
+    "zh-CN": "礼服·原版",
+    "zh-TW": "禮服·原版",
+    "ja": "ドレス・オリジナル"
+  },
+  "coconut/dress-a": {
+    "en": "Dress · Pose A",
+    "zh-CN": "礼服·站姿 A",
+    "zh-TW": "禮服·站姿 A",
+    "ja": "ドレス・立ちポーズA"
+  },
+  "coconut/hawaii-a": {
+    "en": "Hawaii · Pose A",
+    "zh-CN": "夏威夷·站姿 A",
+    "zh-TW": "夏威夷·站姿 A",
+    "ja": "ハワイ・立ちポーズA"
+  },
+  "coconut/hawaii-b": {
+    "en": "Hawaii · Pose B",
+    "zh-CN": "夏威夷·站姿 B",
+    "zh-TW": "夏威夷·站姿 B",
+    "ja": "ハワイ・立ちポーズB"
+  },
+  "coconut/koneko": {
+    "en": "Kitten · Original",
+    "zh-CN": "小猫·原版",
+    "zh-TW": "小貓·原版",
+    "ja": "子猫・オリジナル"
+  },
+  "coconut/koneko-a": {
+    "en": "Kitten · Pose A",
+    "zh-CN": "小猫·站姿 A",
+    "zh-TW": "小貓·站姿 A",
+    "ja": "子猫・立ちポーズA"
+  },
+  "coconut/koneko-b": {
+    "en": "Kitten · Pose B",
+    "zh-CN": "小猫·站姿 B",
+    "zh-TW": "小貓·站姿 B",
+    "ja": "子猫・立ちポーズB"
+  },
+  "coconut/maid": {
+    "en": "Maid · Original",
+    "zh-CN": "女仆·原版",
+    "zh-TW": "女僕·原版",
+    "ja": "メイド・オリジナル"
+  },
+  "coconut/maid-a": {
+    "en": "Maid · Pose A",
+    "zh-CN": "女仆·站姿 A",
+    "zh-TW": "女僕·站姿 A",
+    "ja": "メイド・立ちポーズA"
+  },
+  "coconut/maid-a-4yo": {
+    "en": "Maid · Pose A · 4yo",
+    "zh-CN": "女仆·站姿 A·4yo 版本",
+    "zh-TW": "女僕·站姿 A·4yo 版本",
+    "ja": "メイド・立ちポーズA・4yo"
+  },
+  "coconut/maid-b": {
+    "en": "Maid · Pose B",
+    "zh-CN": "女仆·站姿 B",
+    "zh-TW": "女僕·站姿 B",
+    "ja": "メイド・立ちポーズB"
+  },
+  "coconut/maid-b-4yo": {
+    "en": "Maid · Pose B · 4yo",
+    "zh-CN": "女仆·站姿 B·4yo 版本",
+    "zh-TW": "女僕·站姿 B·4yo 版本",
+    "ja": "メイド・立ちポーズB・4yo"
+  },
+  "coconut/pajama": {
+    "en": "Pajamas · Original",
+    "zh-CN": "睡衣·原版",
+    "zh-TW": "睡衣·原版",
+    "ja": "パジャマ・オリジナル"
+  },
+  "coconut/santa": {
+    "en": "Santa · Original",
+    "zh-CN": "圣诞·原版",
+    "zh-TW": "聖誕·原版",
+    "ja": "サンタ・オリジナル"
+  },
+  "coconut/santa-b": {
+    "en": "Santa · Pose B",
+    "zh-CN": "圣诞·站姿 B",
+    "zh-TW": "聖誕·站姿 B",
+    "ja": "サンタ・立ちポーズB"
+  },
+  "coconut/shirt-a": {
+    "en": "Shirt · Pose A",
+    "zh-CN": "衬衫·站姿 A",
+    "zh-TW": "襯衫·站姿 A",
+    "ja": "シャツ・立ちポーズA"
+  },
+  "coconut/swimsuit-a": {
+    "en": "Swimsuit · Pose A",
+    "zh-CN": "泳装·站姿 A",
+    "zh-TW": "泳裝·站姿 A",
+    "ja": "水着・立ちポーズA"
+  },
+  "coconut/swimsuit-b": {
+    "en": "Swimsuit · Pose B",
+    "zh-CN": "泳装·站姿 B",
+    "zh-TW": "泳裝·站姿 B",
+    "ja": "水着・立ちポーズB"
+  },
+  "coconut/teenage": {
+    "en": "Teenage · Original",
+    "zh-CN": "少女·原版",
+    "zh-TW": "少女·原版",
+    "ja": "ティーンエイジ・オリジナル"
+  },
+  "coconut/teenage-a": {
+    "en": "Teenage · Pose A",
+    "zh-CN": "少女·站姿 A",
+    "zh-TW": "少女·站姿 A",
+    "ja": "ティーンエイジ・立ちポーズA"
+  },
+  "coconut/teenage-b": {
+    "en": "Teenage · Pose B",
+    "zh-CN": "少女·站姿 B",
+    "zh-TW": "少女·站姿 B",
+    "ja": "ティーンエイジ・立ちポーズB"
+  },
+  "coconut/winter": {
+    "en": "Winter · Original",
+    "zh-CN": "冬季·原版",
+    "zh-TW": "冬季·原版",
+    "ja": "ウインター・オリジナル"
+  },
+  "coconut/winter-b": {
+    "en": "Winter · Pose B",
+    "zh-CN": "冬季·站姿 B",
+    "zh-TW": "冬季·站姿 B",
+    "ja": "ウインター・立ちポーズB"
+  },
+  "coconut/wintermaid": {
+    "en": "Winter maid · Original",
+    "zh-CN": "冬季女仆·原版",
+    "zh-TW": "冬季女僕·原版",
+    "ja": "ウィンターメイド・オリジナル"
+  },
+  "coconut/wintermaid-b": {
+    "en": "Winter maid · Pose B",
+    "zh-CN": "冬季女仆·站姿 B",
+    "zh-TW": "冬季女僕·站姿 B",
+    "ja": "ウィンターメイド・立ちポーズB"
+  },
+  "coconut/yukata": {
+    "en": "Yukata · Original",
+    "zh-CN": "浴衣·原版",
+    "zh-TW": "浴衣·原版",
+    "ja": "浴衣・オリジナル"
+  },
+  "coconut/yukata-b": {
+    "en": "Yukata · Pose B",
+    "zh-CN": "浴衣·站姿 B",
+    "zh-TW": "浴衣·站姿 B",
+    "ja": "浴衣・立ちポーズB"
+  },
+  "fraise/casual-a": {
+    "en": "Casual · Pose A",
+    "zh-CN": "日常·站姿 A",
+    "zh-TW": "日常·站姿 A",
+    "ja": "私服・立ちポーズA"
+  },
+  "fraise/casual-b": {
+    "en": "Casual · Pose B",
+    "zh-CN": "日常·站姿 B",
+    "zh-TW": "日常·站姿 B",
+    "ja": "私服・立ちポーズB"
+  },
+  "fraise/france-maid-a": {
+    "en": "French maid · Pose A",
+    "zh-CN": "法国女仆·站姿 A",
+    "zh-TW": "法國女僕·站姿 A",
+    "ja": "フレンチメイド・立ちポーズA"
+  },
+  "fraise/france-maid-b": {
+    "en": "French maid · Pose B",
+    "zh-CN": "法国女仆·站姿 B",
+    "zh-TW": "法國女僕·站姿 B",
+    "ja": "フレンチメイド・立ちポーズB"
+  },
+  "fraise/hawaii-a": {
+    "en": "Hawaii · Pose A",
+    "zh-CN": "夏威夷·站姿 A",
+    "zh-TW": "夏威夷·站姿 A",
+    "ja": "ハワイ・立ちポーズA"
+  },
+  "fraise/hawaii-b": {
+    "en": "Hawaii · Pose B",
+    "zh-CN": "夏威夷·站姿 B",
+    "zh-TW": "夏威夷·站姿 B",
+    "ja": "ハワイ・立ちポーズB"
+  },
+  "fraise/maid-a": {
+    "en": "Maid · Pose A",
+    "zh-CN": "女仆·站姿 A",
+    "zh-TW": "女僕·站姿 A",
+    "ja": "メイド・立ちポーズA"
+  },
+  "fraise/maid-b": {
+    "en": "Maid · Pose B",
+    "zh-CN": "女仆·站姿 B",
+    "zh-TW": "女僕·站姿 B",
+    "ja": "メイド・立ちポーズB"
+  },
+  "fraise/pajama-a": {
+    "en": "Pajamas · Pose A",
+    "zh-CN": "睡衣·站姿 A",
+    "zh-TW": "睡衣·站姿 A",
+    "ja": "パジャマ・立ちポーズA"
+  },
+  "fraise/pajama-b": {
+    "en": "Pajamas · Pose B",
+    "zh-CN": "睡衣·站姿 B",
+    "zh-TW": "睡衣·站姿 B",
+    "ja": "パジャマ・立ちポーズB"
+  },
+  "fraise/swimsuit-a": {
+    "en": "Swimsuit · Pose A",
+    "zh-CN": "泳装·站姿 A",
+    "zh-TW": "泳裝·站姿 A",
+    "ja": "水着・立ちポーズA"
+  },
+  "fraise/swimsuit-b": {
+    "en": "Swimsuit · Pose B",
+    "zh-CN": "泳装·站姿 B",
+    "zh-TW": "泳裝·站姿 B",
+    "ja": "水着・立ちポーズB"
+  },
+  "maple/casual": {
+    "en": "Casual · Original",
+    "zh-CN": "日常·原版",
+    "zh-TW": "日常·原版",
+    "ja": "私服・オリジナル"
+  },
+  "maple/casual-a": {
+    "en": "Casual · Pose A",
+    "zh-CN": "日常·站姿 A",
+    "zh-TW": "日常·站姿 A",
+    "ja": "私服・立ちポーズA"
+  },
+  "maple/casual-b": {
+    "en": "Casual · Pose B",
+    "zh-CN": "日常·站姿 B",
+    "zh-TW": "日常·站姿 B",
+    "ja": "私服・立ちポーズB"
+  },
+  "maple/dress": {
+    "en": "Dress · Original",
+    "zh-CN": "礼服·原版",
+    "zh-TW": "禮服·原版",
+    "ja": "ドレス・オリジナル"
+  },
+  "maple/dress-a": {
+    "en": "Dress · Pose A",
+    "zh-CN": "礼服·站姿 A",
+    "zh-TW": "禮服·站姿 A",
+    "ja": "ドレス・立ちポーズA"
+  },
+  "maple/dress-b": {
+    "en": "Dress · Pose B",
+    "zh-CN": "礼服·站姿 B",
+    "zh-TW": "禮服·站姿 B",
+    "ja": "ドレス・立ちポーズB"
+  },
+  "maple/hawaii-a": {
+    "en": "Hawaii · Pose A",
+    "zh-CN": "夏威夷·站姿 A",
+    "zh-TW": "夏威夷·站姿 A",
+    "ja": "ハワイ・立ちポーズA"
+  },
+  "maple/hawaii-b": {
+    "en": "Hawaii · Pose B",
+    "zh-CN": "夏威夷·站姿 B",
+    "zh-TW": "夏威夷·站姿 B",
+    "ja": "ハワイ・立ちポーズB"
+  },
+  "maple/maid": {
+    "en": "Maid · Original",
+    "zh-CN": "女仆·原版",
+    "zh-TW": "女僕·原版",
+    "ja": "メイド・オリジナル"
+  },
+  "maple/maid-a": {
+    "en": "Maid · Pose A",
+    "zh-CN": "女仆·站姿 A",
+    "zh-TW": "女僕·站姿 A",
+    "ja": "メイド・立ちポーズA"
+  },
+  "maple/maid-b": {
+    "en": "Maid · Pose B",
+    "zh-CN": "女仆·站姿 B",
+    "zh-TW": "女僕·站姿 B",
+    "ja": "メイド・立ちポーズB"
+  },
+  "maple/santa": {
+    "en": "Santa · Original",
+    "zh-CN": "圣诞·原版",
+    "zh-TW": "聖誕·原版",
+    "ja": "サンタ・オリジナル"
+  },
+  "maple/santa-b": {
+    "en": "Santa · Pose B",
+    "zh-CN": "圣诞·站姿 B",
+    "zh-TW": "聖誕·站姿 B",
+    "ja": "サンタ・立ちポーズB"
+  },
+  "maple/swimsuit-a": {
+    "en": "Swimsuit · Pose A",
+    "zh-CN": "泳装·站姿 A",
+    "zh-TW": "泳裝·站姿 A",
+    "ja": "水着・立ちポーズA"
+  },
+  "maple/swimsuit-b": {
+    "en": "Swimsuit · Pose B",
+    "zh-CN": "泳装·站姿 B",
+    "zh-TW": "泳裝·站姿 B",
+    "ja": "水着・立ちポーズB"
+  },
+  "maple/teenage": {
+    "en": "Teenage · Original",
+    "zh-CN": "少女·原版",
+    "zh-TW": "少女·原版",
+    "ja": "ティーンエイジ・オリジナル"
+  },
+  "maple/teenage-a": {
+    "en": "Teenage · Pose A",
+    "zh-CN": "少女·站姿 A",
+    "zh-TW": "少女·站姿 A",
+    "ja": "ティーンエイジ・立ちポーズA"
+  },
+  "maple/teenage-b": {
+    "en": "Teenage · Pose B",
+    "zh-CN": "少女·站姿 B",
+    "zh-TW": "少女·站姿 B",
+    "ja": "ティーンエイジ・立ちポーズB"
+  },
+  "maple/winter": {
+    "en": "Winter · Original",
+    "zh-CN": "冬季·原版",
+    "zh-TW": "冬季·原版",
+    "ja": "ウインター・オリジナル"
+  },
+  "maple/winter-b": {
+    "en": "Winter · Pose B",
+    "zh-CN": "冬季·站姿 B",
+    "zh-TW": "冬季·站姿 B",
+    "ja": "ウインター・立ちポーズB"
+  },
+  "maple/wintermaid": {
+    "en": "Winter maid · Original",
+    "zh-CN": "冬季女仆·原版",
+    "zh-TW": "冬季女僕·原版",
+    "ja": "ウィンターメイド・オリジナル"
+  },
+  "maple/wintermaid-b": {
+    "en": "Winter maid · Pose B",
+    "zh-CN": "冬季女仆·站姿 B",
+    "zh-TW": "冬季女僕·站姿 B",
+    "ja": "ウィンターメイド・立ちポーズB"
+  },
+  "maple/yukata": {
+    "en": "Yukata · Original",
+    "zh-CN": "浴衣·原版",
+    "zh-TW": "浴衣·原版",
+    "ja": "浴衣・オリジナル"
+  },
+  "maple/yukata-b": {
+    "en": "Yukata · Pose B",
+    "zh-CN": "浴衣·站姿 B",
+    "zh-TW": "浴衣·站姿 B",
+    "ja": "浴衣・立ちポーズB"
+  },
+  "milk/summer": {
+    "en": "Summer · Original",
+    "zh-CN": "夏装·原版",
+    "zh-TW": "夏裝·原版",
+    "ja": "夏服・オリジナル"
+  },
+  "milk/teenage": {
+    "en": "Teenage · Original",
+    "zh-CN": "少女·原版",
+    "zh-TW": "少女·原版",
+    "ja": "ティーンエイジ・オリジナル"
+  },
+  "milk/teenage-4yo": {
+    "en": "Teenage · 4yo",
+    "zh-CN": "少女·4yo 版本",
+    "zh-TW": "少女·4yo 版本",
+    "ja": "ティーンエイジ・4yo"
+  },
+  "milk/winter": {
+    "en": "Winter · Original",
+    "zh-CN": "冬季·原版",
+    "zh-TW": "冬季·原版",
+    "ja": "ウインター・オリジナル"
+  },
+  "vanilla/casual": {
+    "en": "Casual · Original",
+    "zh-CN": "日常·原版",
+    "zh-TW": "日常·原版",
+    "ja": "私服・オリジナル"
+  },
+  "vanilla/casual-a-no-bell": {
+    "en": "Casual · Pose A · No bell",
+    "zh-CN": "日常·站姿 A·无铃铛",
+    "zh-TW": "日常·站姿 A·無鈴鐺",
+    "ja": "私服・立ちポーズA・鈴なし"
+  },
+  "vanilla/casual-a-with-bell": {
+    "en": "Casual · Pose A · With bell",
+    "zh-CN": "日常·站姿 A·有铃铛",
+    "zh-TW": "日常·站姿 A·有鈴鐺",
+    "ja": "私服・立ちポーズA・鈴付き"
+  },
+  "vanilla/casual-b-no-bell": {
+    "en": "Casual · Pose B · No bell",
+    "zh-CN": "日常·站姿 B·无铃铛",
+    "zh-TW": "日常·站姿 B·無鈴鐺",
+    "ja": "私服・立ちポーズB・鈴なし"
+  },
+  "vanilla/casual-b-no-bell-tail-pin": {
+    "en": "Casual · Pose B · No bell / tail pin",
+    "zh-CN": "日常·站姿 B·无铃铛 / 尾部固定",
+    "zh-TW": "日常·站姿 B·無鈴鐺 / 尾部固定",
+    "ja": "私服・立ちポーズB・鈴なし・尾部固定"
+  },
+  "vanilla/casual-b-with-bell": {
+    "en": "Casual · Pose B · With bell",
+    "zh-CN": "日常·站姿 B·有铃铛",
+    "zh-TW": "日常·站姿 B·有鈴鐺",
+    "ja": "私服・立ちポーズB・鈴付き"
+  },
+  "vanilla/date-a": {
+    "en": "Date · Pose A",
+    "zh-CN": "约会·站姿 A",
+    "zh-TW": "約會·站姿 A",
+    "ja": "デート・立ちポーズA"
+  },
+  "vanilla/date-b": {
+    "en": "Date · Pose B",
+    "zh-CN": "约会·站姿 B",
+    "zh-TW": "約會·站姿 B",
+    "ja": "デート・立ちポーズB"
+  },
+  "vanilla/dress": {
+    "en": "Dress · Original",
+    "zh-CN": "礼服·原版",
+    "zh-TW": "禮服·原版",
+    "ja": "ドレス・オリジナル"
+  },
+  "vanilla/dress-a": {
+    "en": "Dress · Pose A",
+    "zh-CN": "礼服·站姿 A",
+    "zh-TW": "禮服·站姿 A",
+    "ja": "ドレス・立ちポーズA"
+  },
+  "vanilla/hawaii-a": {
+    "en": "Hawaii · Pose A",
+    "zh-CN": "夏威夷·站姿 A",
+    "zh-TW": "夏威夷·站姿 A",
+    "ja": "ハワイ・立ちポーズA"
+  },
+  "vanilla/hawaii-b": {
+    "en": "Hawaii · Pose B",
+    "zh-CN": "夏威夷·站姿 B",
+    "zh-TW": "夏威夷·站姿 B",
+    "ja": "ハワイ・立ちポーズB"
+  },
+  "vanilla/koneko": {
+    "en": "Kitten · Original",
+    "zh-CN": "小猫·原版",
+    "zh-TW": "小貓·原版",
+    "ja": "子猫・オリジナル"
+  },
+  "vanilla/koneko-a": {
+    "en": "Kitten · Pose A",
+    "zh-CN": "小猫·站姿 A",
+    "zh-TW": "小貓·站姿 A",
+    "ja": "子猫・立ちポーズA"
+  },
+  "vanilla/koneko-b": {
+    "en": "Kitten · Pose B",
+    "zh-CN": "小猫·站姿 B",
+    "zh-TW": "小貓·站姿 B",
+    "ja": "子猫・立ちポーズB"
+  },
+  "vanilla/lolita": {
+    "en": "Lolita · Original",
+    "zh-CN": "洛丽塔·原版",
+    "zh-TW": "洛麗塔·原版",
+    "ja": "ロリータ・オリジナル"
+  },
+  "vanilla/maid": {
+    "en": "Maid · Original",
+    "zh-CN": "女仆·原版",
+    "zh-TW": "女僕·原版",
+    "ja": "メイド・オリジナル"
+  },
+  "vanilla/maid-a-no-bell": {
+    "en": "Maid · Pose A · No bell",
+    "zh-CN": "女仆·站姿 A·无铃铛",
+    "zh-TW": "女僕·站姿 A·無鈴鐺",
+    "ja": "メイド・立ちポーズA・鈴なし"
+  },
+  "vanilla/maid-a-with-bell": {
+    "en": "Maid · Pose A · With bell",
+    "zh-CN": "女仆·站姿 A·有铃铛",
+    "zh-TW": "女僕·站姿 A·有鈴鐺",
+    "ja": "メイド・立ちポーズA・鈴付き"
+  },
+  "vanilla/maid-b-no-bell": {
+    "en": "Maid · Pose B · No bell",
+    "zh-CN": "女仆·站姿 B·无铃铛",
+    "zh-TW": "女僕·站姿 B·無鈴鐺",
+    "ja": "メイド・立ちポーズB・鈴なし"
+  },
+  "vanilla/maid-b-with-bell": {
+    "en": "Maid · Pose B · With bell",
+    "zh-CN": "女仆·站姿 B·有铃铛",
+    "zh-TW": "女僕·站姿 B·有鈴鐺",
+    "ja": "メイド・立ちポーズB・鈴付き"
+  },
+  "vanilla/pajama": {
+    "en": "Pajamas · Original",
+    "zh-CN": "睡衣·原版",
+    "zh-TW": "睡衣·原版",
+    "ja": "パジャマ・オリジナル"
+  },
+  "vanilla/pajama-a": {
+    "en": "Pajamas · Pose A",
+    "zh-CN": "睡衣·站姿 A",
+    "zh-TW": "睡衣·站姿 A",
+    "ja": "パジャマ・立ちポーズA"
+  },
+  "vanilla/pajama-b": {
+    "en": "Pajamas · Pose B",
+    "zh-CN": "睡衣·站姿 B",
+    "zh-TW": "睡衣·站姿 B",
+    "ja": "パジャマ・立ちポーズB"
+  },
+  "vanilla/santa": {
+    "en": "Santa · Original",
+    "zh-CN": "圣诞·原版",
+    "zh-TW": "聖誕·原版",
+    "ja": "サンタ・オリジナル"
+  },
+  "vanilla/santa-b": {
+    "en": "Santa · Pose B",
+    "zh-CN": "圣诞·站姿 B",
+    "zh-TW": "聖誕·站姿 B",
+    "ja": "サンタ・立ちポーズB"
+  },
+  "vanilla/swimsuit-a": {
+    "en": "Swimsuit · Pose A",
+    "zh-CN": "泳装·站姿 A",
+    "zh-TW": "泳裝·站姿 A",
+    "ja": "水着・立ちポーズA"
+  },
+  "vanilla/swimsuit-b": {
+    "en": "Swimsuit · Pose B",
+    "zh-CN": "泳装·站姿 B",
+    "zh-TW": "泳裝·站姿 B",
+    "ja": "水着・立ちポーズB"
+  },
+  "vanilla/teenage": {
+    "en": "Teenage · Original",
+    "zh-CN": "少女·原版",
+    "zh-TW": "少女·原版",
+    "ja": "ティーンエイジ・オリジナル"
+  },
+  "vanilla/teenage-a": {
+    "en": "Teenage · Pose A",
+    "zh-CN": "少女·站姿 A",
+    "zh-TW": "少女·站姿 A",
+    "ja": "ティーンエイジ・立ちポーズA"
+  },
+  "vanilla/teenage-b": {
+    "en": "Teenage · Pose B",
+    "zh-CN": "少女·站姿 B",
+    "zh-TW": "少女·站姿 B",
+    "ja": "ティーンエイジ・立ちポーズB"
+  },
+  "vanilla/winter": {
+    "en": "Winter · Original",
+    "zh-CN": "冬季·原版",
+    "zh-TW": "冬季·原版",
+    "ja": "ウインター・オリジナル"
+  },
+  "vanilla/winter-b": {
+    "en": "Winter · Pose B",
+    "zh-CN": "冬季·站姿 B",
+    "zh-TW": "冬季·站姿 B",
+    "ja": "ウインター・立ちポーズB"
+  },
+  "vanilla/wintermaid": {
+    "en": "Winter maid · Original",
+    "zh-CN": "冬季女仆·原版",
+    "zh-TW": "冬季女僕·原版",
+    "ja": "ウィンターメイド・オリジナル"
+  },
+  "vanilla/wintermaid-b": {
+    "en": "Winter maid · Pose B",
+    "zh-CN": "冬季女仆·站姿 B",
+    "zh-TW": "冬季女僕·站姿 B",
+    "ja": "ウィンターメイド・立ちポーズB"
+  },
+  "vanilla/yukata": {
+    "en": "Yukata · Original",
+    "zh-CN": "浴衣·原版",
+    "zh-TW": "浴衣·原版",
+    "ja": "浴衣・オリジナル"
+  },
+  "vanilla/yukata-b": {
+    "en": "Yukata · Pose B",
+    "zh-CN": "浴衣·站姿 B",
+    "zh-TW": "浴衣·站姿 B",
+    "ja": "浴衣・立ちポーズB"
+  }
 }
