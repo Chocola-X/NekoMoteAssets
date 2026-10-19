@@ -15,9 +15,13 @@ assets/
 ├── characters/
 │   ├── characters.json               # 角色显示名字典
 │   └── <角色组>/                     # 如 chocola、azuki、fraise …
+│       ├── audio/                    # 角色共享的无损 FLAC 语音
+│       │   ├── main/                 # 正常角色语音
+│       │   └── little/               # 小猫语音（若有）
 │       └── <变体>/                   # 如 date-a、maid-a
-│           ├── model.nkm.json        # 规范化模型（schema 6）
+│           ├── model.nkm             # schema 6，MessagePack + zlib 压缩容器
 │           ├── session.nks.json      # 反应会话（视线/触摸/动作）
+│           ├── audio -> ../audio/main # 或 ../audio/little，相对软链接
 │           ├── meta.json             # 可选：显示名、排序、裁切等
 │           └── textures/             # PNG 纹理图集
 ├── backgrounds/
@@ -34,7 +38,11 @@ assets/
     └── toggle.png                    # UI 面板图标
 ```
 
-> `config.json`（壁纸运行配置）不包含在本仓库中，它由 NekoMote 首次运行时自动生成。
+> 资产根目录下的 `config.json`（壁纸运行配置）不包含在本仓库中，它由 NekoMote 首次运行时自动生成。背景分组内的 `config.json` 属于资产，应当保留。
+
+PNG 只优化编码和移除不参与运行时解码的元数据，解码后的 RGBA 像素不变。模型、会话、
+音频、角色与背景的多语言名称均应保留；更新资产时不要用旧名称字典覆盖当前版本。
+复制或打包时保留软链接，并整体移动 `assets/`，相对链接即可继续使用。
 
 ## 使用方法
 
@@ -56,7 +64,7 @@ nekomote_player --assets /path/to/assets --character chocola/date-a
 
 ## 资产来源
 
-- **角色模型与背景图片** — 原始素材来自 NEKOPARA Steam 版游戏，使用 [FreeMote](https://github.com/UlyssesWu/FreeMote) 工具解包，再经 NekoMote 资产导入器（`nekomote_import`）规范化为引擎格式（schema 6 模型 `model.nkm.json`）。
+- **角色模型与背景图片** — 原始素材来自 NEKOPARA Steam 版游戏，使用 [FreeMote](https://github.com/UlyssesWu/FreeMote) 工具解包，再经 NekoMote 资产导入器（`nekomote_import`）规范化为引擎格式（schema 6 模型 `model.nkm`）。
 - **动作反应会话**（`session.nks.json`，含视线/触摸/动作）— 由本仓库维护者自行配置，非游戏原始数据。
 
 如需从原始素材重新生成模型与背景，参见 [NekoMote 主仓库](https://github.com/Chocola-X/NekoMote) 的「资产准备」章节。
